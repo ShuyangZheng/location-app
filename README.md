@@ -1,6 +1,13 @@
 # search-on-map
 
 ## Project setup
+### Get your Google Maps API key and paste it into `App.vue` on line 52
+```
+// App.vue
+const GOOGLE_MAPS_API_KEY = 'your Google Maps api key'
+```
+
+### Install all necessary packges
 ```
 npm install
 ```
